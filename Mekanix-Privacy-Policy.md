@@ -45,8 +45,6 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 - Email address
 - First name and last name
-- Phone number
-- Address, State, Province, ZIP/Postal code, City
 
 #### **Usage Data**
 Usage Data is collected automatically when using the Service.
