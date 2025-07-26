@@ -6,6 +6,11 @@ This Privacy Policy describes Our policies and procedures on the collection, use
 
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/free-privacy-policy-generator/).
 
+## In-App Purchases and Subscriptions
+
+Our app offers in-app purchases and subscription packages to provide additional features and content. By subscribing, you agree to Apple's standard Terms of Use available here: [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+
 ## Interpretation and Definitions
 
 ### Interpretation
@@ -133,17 +138,9 @@ Our Service may contain links to third-party sites not operated by Us. We recomm
 
 We assume no responsibility for such sites' practices.
 
-## Changes to this Privacy Policy
-
-We may update this Privacy Policy periodically. We will notify You via:
-
-- Website notice
-- Email (if applicable)
-
-The "Last updated" date will reflect changes. We recommend periodic review.
 
 ## Contact Us
 
 If you have any questions about this Privacy Policy, you can contact us:
 
-- By visiting: [http://82.25.84.31:5000/contact-us/](http://82.25.84.31:5000/contact-us/)
+- By visiting: [https://home.buildingcomply.com.au/contact-us/](https://home.buildingcomply.com.au/contact-us/)
